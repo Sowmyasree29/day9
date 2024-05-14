@@ -3,11 +3,19 @@ table,td,tr{
    
     display:flex;
     justify-content:center;
-    align-items:center; 
+    align-items:center;
+    
+
+    
+    
     
     
     
    
+}
+table,td{
+    border:2px solid black;
+    border-collapse:collapse;
 }
 
 
@@ -35,7 +43,9 @@ table{
 td{
    height:100px;
    width:200px;
-   margin:5%;
+    margin:5%; 
+   /* cellspacing:50px; */
+   
    /* text-align:center; */
 }
 .td1{

@@ -1,0 +1,35 @@
+table{
+    display:flex;
+  
+    justify-content:center;
+    align-items:center;
+    border:2px solid black;
+    width:600px;
+    
+    
+    height:500px;
+
+}
+td,tr{
+    border:1px solid black;
+}
+div{
+    
+    display:flex;
+    justify-content:center;
+    height:1000px;
+    align-items:center;
+
+} 
+.td1{
+    background-color:blue;
+}
+.td2{
+    background-color:yellow;
+}
+.td3{
+    background-color:red;
+}
+
+
+
