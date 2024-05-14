@@ -1,0 +1,109 @@
+table,td,tr{
+
+   
+    display:flex;
+    justify-content:center;
+    align-items:center; 
+    
+    
+    
+   
+}
+
+
+
+table{
+    width:70%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border:1px solid black;
+    border-collapse:collapse;
+   
+    background-color:antiquewhite;
+    
+   
+    
+    
+    
+}
+
+
+
+
+
+td{
+   height:100px;
+   width:200px;
+   margin:5%;
+   /* text-align:center; */
+}
+.td1{
+    background-color:blue;
+    color:white;
+   
+}
+.td2{
+    background-color:chartreuse;
+    color:white;
+   
+}
+.td3{
+    background-color:aqua;
+    color:white;
+    
+}
+.td4{
+    background-color:blueviolet;
+    color:white;
+    
+}
+.td5{
+    background-color:brown;
+    color:white;
+}
+.td6{
+    background-color:burlywood;
+    color:white;
+}
+.td7{
+    background-color:orange;
+    color:white;
+}
+.td8{
+    background-color:yellow;
+    color:white;
+}
+.td9{
+    background-color:pink;
+    color:white;
+}
+.td10{
+    background-color:mediumorchid;
+    color:white;
+}
+.td11{
+    background-color:paleturquoise;
+    color:white;
+}
+.td12{
+    background-color:lawngreen;
+    color:white;
+}
+.td13{
+    background-color:darkmagenta;
+    color:white;
+}
+.td14{
+    background-color:darkgoldenrod;
+    color:white;
+}
+.td15{
+    background-color:darkcyan;
+    color:white;
+}
+.td16{
+    background-color:indigo;
+    color:white;
+}
+
